@@ -1,5 +1,7 @@
 # Carenuity C3-Mini-MS3625-Microphone
 
+![image alt](https://github.com/0mollo/C3-Mini-MS3625-Microphone/blob/main/MS3625%20Top%20View.png) ![image alt]()
+
 Omnidirectional Digital Voice Capture Module  
 Designed for the Carenuity Standardized Hardware Ecosystem (SMA)
 
