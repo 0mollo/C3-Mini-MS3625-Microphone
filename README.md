@@ -36,13 +36,13 @@ Form Factor: C3-Mini Ecosystem Compatible
 | SCK        | Bit Clock |
 | WS         | Word Select |
 
-### Suggested ESP32-C3 Mini Mapping
+### ESP32-C3 Mini Mapping
 
 | Microphone | C3 Mini GPIO |
 |------------|--------------|
-| SD         | GPIO4 |
-| SCK        | GPIO6 |
-| WS         | GPIO5 |
+| SD         | GPIO7 |
+| SCK        | GPIO2 |
+| WS         | GPIO3 |
 | VDD        | 3V3 |
 | GND        | GND |
 
