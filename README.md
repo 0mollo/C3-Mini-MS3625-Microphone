@@ -48,6 +48,10 @@ Form Factor: C3-Mini Ecosystem Compatible
 
 (GPIO mapping can be changed in firmware.)
 
+## Schematics
+
+[See](https://github.com/0mollo/C3-Mini-MS3625-Microphone/blob/main/MS3625%20Microphone.pdf)
+
 ## I2S Wiring Diagram
 
 SD  → Data In  
